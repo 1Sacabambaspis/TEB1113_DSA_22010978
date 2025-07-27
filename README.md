@@ -12,3 +12,5 @@
 | 02/7/2025 | 6   | - [Array Queue](https://github.com/1Sacabambaspis/TEB1113_DSA_22010978/blob/main/Lab%206/ArrayQueue.cpp) <br> [Queue](https://github.com/1Sacabambaspis/TEB1113_DSA_22010978/blob/main/Lab%206/Queue.cpp) <br> [Circular Queue](https://github.com/1Sacabambaspis/TEB1113_DSA_22010978/blob/main/Lab%206/CircularQueue.cpp) |
 | 03/7/2025 | 7   | - [Tree](https://github.com/1Sacabambaspis/TEB1113_DSA_22010978/blob/main/Lab%207/Tree.cpp)                                                        |
 | 22/7/2025 | 8   | - [Tree with Search (Binary Search Tree)](https://github.com/1Sacabambaspis/TEB1113_DSA_22010978/blob/main/Lab%208/TreeWithSearch.cpp)             |
+| 25/7/2025 | 9   | - [BFS](https://github.com/1Sacabambaspis/TEB1113_DSA_22010978/blob/main/Lab%209/BFS.cpp)  <br> [DFS](https://github.com/1Sacabambaspis/TEB1113_DSA_22010978/blob/main/Lab%209/DFS.cpp)  |
+| 25/7/2025 | 9   | - [ExpenseSorterApp](https://github.com/1Sacabambaspis/TEB1113_DSA_22010978/tree/main/ExpenseSorterApp)  |
